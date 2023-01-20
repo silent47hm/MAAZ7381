@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @MAAZ7381
+- 👋 Hi, I’m @mohammed maaz
 - 👀 I’m interested in cybersecurity
 - 🌱 I’m currently learning javascript
 - 💞️ I’m looking to collaborate on anyone
-- 📫 How to reach me maazm7391@gmail.com or my twitter account SÓILDER
+- 📫 How to reach me maazm7391@gmail.com or my twitter account @silent47hm
 
 <!---
 MAAZ7381/MAAZ7381 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
