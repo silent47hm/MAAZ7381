@@ -1,83 +1,71 @@
-<!--
-  Place this file in the repository that matches your GitHub username (e.g. github.com/silent47hm/silent47hm)
-  It will render on your GitHub profile.
--->
+# 👋 Hi, I'm Mohammed Maaz
 
-# Mohammed Maaz — App Developer
-
-Hello — I’m **Mohammed Maaz**, an App Developer working across frontend and backend.  
-I build secure, user-focused applications using modern JavaScript technologies and follow security-first practices in the systems I work on.
+I'm an **App Developer** with experience in building secure, scalable, and user-focused applications.  
+I work across both **frontend and backend**, mainly using modern JavaScript technologies.
 
 ---
 
-## 🔭 About me
-- Role: App Developer (Full-stack focus)
-- Primary stack: JavaScript, Node.js, Express, MongoDB, Mongoose, React.js, Tailwind CSS
-- Areas of interest: API development, authentication (JWT), secure coding and OWASP practices, backend architecture
-- Tools: OWASP ZAP, Postman, Git, Docker (basic), VS Code
+## 🌟 About Me
+- App Developer with hands-on experience in full-stack development  
+- Comfortable in both frontend (React, Tailwind) and backend (Node.js, Express, MongoDB)  
+- Focused on secure coding, clean architecture, and real-world app development  
+- Apply **OWASP best practices** and use tools like **OWASP ZAP** for security testing  
+- Passionate about learning, improving, and writing maintainable code
 
 ---
 
-## 🛠️ Skills & Technologies
+## 🛠️ Tech Stack
 
 **Languages & Frameworks**
 - JavaScript (ES6+)
-- Node.js, Express
+- Node.js
+- Express.js
 - React.js
 
-**Databases & ORM**
-- MongoDB, Mongoose
+**Database & ORM**
+- MongoDB
+- Mongoose
 
-**Styling & UI**
-- Tailwind CSS, basic responsive design
+**Frontend Styling**
+- Tailwind CSS
 
-**Auth & Security**
-- JWT-based authentication
-- OWASP best practices
-- OWASP ZAP for scanning
+**Security & Auth**
+- JSON Web Tokens (JWT)
+- OWASP Top 10
+- OWASP ZAP scanning
 
-**Other**
-- RESTful API design
-- Git and GitHub workflows
-- Unit testing basics (Jest / SuperTest — add if used)
-
----
-
-## ⭐ Featured Projects
-*(Add links to the project repositories and a short 1–2 line description for each)*
-
-- **Project-Name-1** — Short description (Tech: Node.js, Express, MongoDB).  
-  `Live:` <link> • `Code:` github.com/silent47hm/repo1
-
-- **Project-Name-2** — Short description (Tech: React, Tailwind, API).  
-  `Live:` <link> • `Code:` github.com/silent47hm/repo2
-
-- **Project-Name-3** — Short description (Auth, JWT, role-based access).  
-  `Code:` github.com/silent47hm/repo3
-
-> Replace the placeholders above with actual project names, short descriptions (1 sentence), and repo links. I can auto-fill this if you tell me 3–6 repos to feature.
+**Other Tools**
+- Git & GitHub  
+- Postman  
+- RESTful APIs  
 
 ---
 
-## 🔍 What I focus on
-- Building reliable backend APIs and integrating them with clean React frontends.
-- Implementing secure authentication, role-based access, and session management.
-- Writing readable, maintainable code and documenting projects so teammates can onboard quickly.
-- Learning security tools and applying OWASP recommendations in real projects.
+## 🚀 What I Build
+- Full-stack applications with secure backend logic  
+- APIs with proper authentication and validation  
+- User interfaces with clean layouts using Tailwind CSS  
+- Scalable backend structures with MongoDB + Mongoose  
 
 ---
 
-## 📫 Contact
-- Email: your-email@example.com  
-- LinkedIn: linkedin.com/in/your-linkedin (optional)  
-- Portfolio: https://portfolio-two-chi-54a2bi4j7z.vercel.app/ (update if you change)
+## 📌 Featured Projects
+> (Tell me which projects you want here and I will fill them in beautifully.)
+
+- **Article-Project Backend** — Basically I created a project in which what I did I have constructed a whole article Backend which is role based.  
+- **Wallpaper Backend Project** — In this I used multer and cloudanry for image storage and mongoDB for backend.  
 
 ---
 
 ## 📈 GitHub Stats
+
 ![GitHub Streak](https://streak-stats.demolab.com?user=silent47hm&theme=default)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=silent47hm&layout=compact)
 
 ---
 
-Thank you for visiting my profile. I’m always open to collaboration, learning new things, and contributing to meaningful projects.
+## 📫 Contact
+- **Email:** maazm7391@gmail.com
+- **Portfolio:** https://portfolio-two-chi-54a2bi4j7z.vercel.app/  
+
+Thanks for visiting my profile — I’m always open to learning, collaborating, and contributing to impactful projects.
